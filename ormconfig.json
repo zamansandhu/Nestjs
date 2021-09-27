@@ -1,0 +1,12 @@
+{
+    "type": "mysql",
+    "host": "MYSQL5031.site4now.net",
+    "port": "3306",
+    "username": "a7366a_nestjs",
+    "password": "edra@k123",
+    "database": "db_a7366a_nestjs",
+    "synchronize": true,
+    "logging": true,
+    "entities": ["dist/**/**.entity{.ts,.js}"]
+
+}
